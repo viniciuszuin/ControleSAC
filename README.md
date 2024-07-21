@@ -6,3 +6,4 @@ Esse aplicativo de SAC foi desenvolvido no Power Apps e oferece uma solução fl
  - Conectado na Nuvem em uma planilha Excel.
 </br>
  - Conjunto do Relatório de SAC para monitorar os dados. 
+</br>
